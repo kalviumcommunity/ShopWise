@@ -1,1 +1,11 @@
-# ShopWise
+How would I like to improve the world?
+
+I aim to improve the world by offering eco-friendly products, partnering with sustainable brands, and encouraging recycling or responsible disposal of packaging materials. Implement initiatives where a portion of each purchase goes towards supporting a charitable cause or organisations working towards social and environmental causes.Implement fair pricing practices that provide value to both customers and producers, ensuring that fair wages are paid to workers involved in the production process.Ensure transparency by displaying genuine and verified customer reviews and ratings. This helps build trust and assists customers in making well-informed purchasing decisions.
+
+Why is this a problem?
+
+ShopWise allows businesses to reach a global audience without the limitations of physical store locations. By setting up an ShopWise project, you can tap into a much larger market and potentially expand your customer base beyond geographical boundaries. ShopWise offers convenience to customers by enabling them to shop anytime, anywhere, and from any device among different categories like Fashion and Apparel, Health and Beauty, Jewellery and Accessories and Home Improvement. You can easily adapt and update your online store, add new products, or expand your offerings without the constraints of a physical store. In today's digital age, having an ecommerce presence can provide a competitive advantage. It allows you to differentiate your business, stay ahead of competitors, and meet the evolving expectations of tech-savvy consumers.
+
+My Potential solutions   
+
+Enhance the user experience on ecommerce websites by improving website navigation, search functionality, and overall design. Provide multiple channels for customer support, such as  email, and phone support. Encourage customers to leave reviews and ratings for products, as this can enhance trust, improve product credibility, and aid in decision-making for other shoppers.Online shopping allows customers to browse and purchase products from the comfort of their homes, removing barriers that may exist in physical stores.
