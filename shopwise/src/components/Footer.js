@@ -58,7 +58,7 @@ const Footer = () => {
             </div>
             <div className="footer-contact">
               <h3>Call Us</h3>
-              <a href='tel:8160232711'><h3>8160232711</h3></a>
+              <a className='footer-contact' href='tel:8160232711'><h3>8160232711</h3></a>
             </div>
         </div>
         <div className="footer-bottom--section">
@@ -85,6 +85,10 @@ const Footer = () => {
 const Wrapper = styled.section`
   .iSIFGq {
     margin: 0;
+  }
+
+  .footer-contact{
+    text-decoration:none;
   }
 
   .container {
