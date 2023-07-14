@@ -1,6 +1,7 @@
 import React from 'react'
 
 const productReducer = (state,action) => {
+    
 
     switch(action.type){
         case "SET_LOADING":

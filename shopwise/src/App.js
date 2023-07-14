@@ -12,6 +12,7 @@ import ErrorPage from './ErrorPage';
 import { ThemeProvider } from 'styled-components';
 import Header from './components/Header';
 import Footer from './components/Footer';
+import Category from './components/Category'
 
 function App() {
   const theme = {
@@ -45,7 +46,7 @@ function App() {
         <Routes>
           <Route path='/' element={<Home/>}/>
           <Route path='/about' element={<About/>}/>
-          <Route path='/products' element={<Products/>}/>
+          <Route path='/products' element={<Category/>}/>
           <Route path='/contact' element={<Contact/>}/>
           <Route path='/singleproduct/:id' element={<SingleProduct/>}/>
           <Route path='/cart' element={<Cart/>}/>

@@ -1,7 +1,7 @@
 import React from 'react';
 import styled from 'styled-components';
 import { useProductContext } from '../context/ProductContext';
-
+import Product from './Product';
 
 
 const FeatureProducts = () => {
@@ -15,6 +15,14 @@ const FeatureProducts = () => {
         <div className='container'>
             <div className='intro-data'>Check Now!</div>
             <div className='common-heading'>Our Feature Services</div>
+            <div className='grid grid-three-column'>
+                {
+                    featureProducts.map((e)=>{
+                        return <Product key={e.id} {...e}/>
+                    })
+                }
+                {console.log(featureProducts)}
+            </div>
         </div>
 
     </Wrapper>
@@ -27,7 +35,20 @@ const Wrapper = styled.section`
 
   .container {
     max-width: 120rem;
+    margin: 0 auto;
   }
+  .intro-data {
+      margin-bottom: 0;
+      text-transform: uppercase;
+      color: #5138ee;
+    }
+    .grid {
+        display: grid;
+        gap: 9rem;
+    }
+  .grid-three-column {
+    grid-template-columns: repeat(3, 1fr);
+    }
 
   figure {
     width: auto;
