@@ -2,20 +2,14 @@ import React from 'react'
 import "./Products.css"
 import { AiFillStar } from 'react-icons/ai'
 import { BsFillBagHeartFill } from 'react-icons/bs'
-import Cart from '../Cart'
 
-const Products = () => {
+
+const Products = ({result}) => {
   return (
     <>
       <section className='card-container'>
-       <Cart/>
-       <Cart/>
-       <Cart/>
-       <Cart/>
-       <Cart/>
-       <Cart/>
-       <Cart/>
-       <Cart/>
+       {result}
+       {console.log(result)}
       </section>
     </>
   )
